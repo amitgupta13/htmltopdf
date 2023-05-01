@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "fs-extra": "^8.0.1",
     "puppeteer": "^1.17.0"
   }
